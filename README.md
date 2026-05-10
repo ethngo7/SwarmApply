@@ -1,4 +1,4 @@
-# SwarmApply 🐝
+# SwarmApply (AI Hackathon Submission) 🐝
 
 > One prompt. Full job search, automated.
 
