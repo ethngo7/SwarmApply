@@ -69,7 +69,10 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 - [ ] InsForge backend for application tracking
 - [ ] Zeabur deployment for one-click sharing
 
+
 Built at **Build Smth AI-Native Hackathon @Cal** — May 2026
+## Links
+- [DevPost Submission]([your devpost link])
 
 **Sponsors:** [OpenSwarm](https://openswarm.com) · [Retell](https://retellai.com) · [InsForge](https://insforge.com) · [Zeabur](https://zeabur.com) · [Entelligence AI](https://entelligence.ai) · [PixVerse](https://pixverse.ai) · [Klarity Health](https://klarity.health)
 
