@@ -44,8 +44,8 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 ## Setup
 
 ### Prerequisites
-- [OpenSwarm](https://openswarm.com) installed
-- API keys or direct LLM account connections
+- Install OpenSwarm
+- API keys or direct LLM account connections (I used Claude API keys)
 - Google Workspace MCP connected (for Gmail)
 
 ### Installation
