@@ -57,7 +57,8 @@ One prompt triggers a coordinated swarm of 5 specialized AI agents:
 - [ ] Zeabur deployment for one-click sharing
 
 ## Built At
-Built at [Hackathon Name] — May 2026
+Built at [Build Smth AI-Native Hackathon @Cal] — May 2026
+**Sponsors:** [OpenSwarm](https://openswarm.com) · [Retell](https://retellai.com) · [InsForge](https://insforge.com) · [Zeabur](https://zeabur.com) · [Entelligence AI](https://entelligence.ai) · [PixVerse](https://pixverse.ai) · [Klarity Health](https://klarity.health)
 
 ## Author
 [Ethan Ngo](https://github.com/ethngo7)
