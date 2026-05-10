@@ -29,7 +29,7 @@ One prompt triggers a coordinated swarm of 5 specialized AI agents:
 
 Example prompt: "find me the most compatible jobs within the SF Bay Area that require 0-2 years of experiences; open to new grads"
 
-## Agents
+## My Agents
 
 | Mode | Role |
 |------|------|
@@ -57,7 +57,7 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 5. Type your job search query and let it run
 
 
-## Further Improvements
+## My To-Do List for Improving
 - [ ] Optimize token usage across agents
 - [ ] Fix Gmail draft saving via MCP
 - [ ] Add Email Follow Up agent
