@@ -58,7 +58,7 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 
 
 ## My To-Do List for Improving
-- [ ] Optimize token usage across agents
+- [ ] Optimize token usage across agents to reduce cost
 - [ ] Fix Gmail draft saving via MCP
 - [ ] Add Email Follow Up agent
 - [ ] InsForge backend for application tracking (database)
