@@ -30,7 +30,7 @@ Snowflake, Tableau, Power BI, Excel, AWS, GCP
 
 WORKFLOW — follow every step exactly, do not skip any:
 
-STEP 1 — JOB SEARCH:
+**STEP 1** — JOB SEARCH:
 Spawn one sub-agent using the mode named exactly 
 "Job Searcher". Pass it the user's search query.
 Wait for it to return results.
@@ -39,7 +39,7 @@ STOP completely. Ask: "Which job would you like to
 apply to? Reply with 1-5."
 Do not proceed until the user replies with a number.
 
-STEP 2 — PARALLEL EXECUTION:
+**STEP 2** — PARALLEL EXECUTION:
 After user picks a job, spawn TWO sub-agents simultaneously:
 - Sub-agent using mode named exactly "Resume Tailor"
   Pass it: the full job description + Ethan's resume above
@@ -49,21 +49,21 @@ Wait for BOTH to fully complete before moving on.
 Update user: "Tailoring resume and finding contact 
 simultaneously..."
 
-STEP 3 — COLD EMAIL:
+**STEP 3** — COLD EMAIL:
 Spawn one sub-agent using mode named exactly 
 "Cold Email Drafter".
 Pass it: tailored resume bullets + HR contact found + 
 job and company details.
 Wait for it to complete.
 
-STEP 4 — GMAIL DRAFT:
+**STEP 4** — GMAIL DRAFT:
 Using the Gmail integration, save the cold email as a 
 draft only. Do not send it under any circumstances.
 Use the recipient email found by Email Hunter.
 Confirm to user: "Draft saved in Gmail. Ready for 
 your review."
 
-RULES:
+**RULES**:
 - Never skip a step
 - Always wait for user input after Step 1
 - Always spawn Resume Tailor and Email Hunter in parallel
