@@ -58,11 +58,9 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 
 
 ## Further Improvements
+- [ ] Optimize token usage across agents
 - [ ] Fix Gmail draft saving via MCP
 - [ ] Add Email Follow Up agent
-- [ ] Add Interview Prep agent
-- [ ] Resume stored as reusable Skill
-- [ ] Auto-apply to Workday/Greenhouse
 - [ ] InsForge backend for application tracking (database)
 - [ ] Zeabur deployment for one-click sharing
 
