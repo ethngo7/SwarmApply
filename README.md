@@ -10,9 +10,18 @@ autonomously with a single prompt.
 
 ## Demo
 
-![Job Search](https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/subagents-working)
-![Agents Running](https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/Custom-modes)
-![Cold Email Output](https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/agent-in-Gmail)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/subagents-working" width="800"/>
+<p><em>Sub-agents working in parallel on the canvas</em></p>
+
+<img src="https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/Custom-modes" width="800"/>
+<p><em>Custom Modes powering each specialized agent</em></p>
+
+<img src="https://raw.githubusercontent.com/ethngo7/SwarmApply/main/screenshots/agent-in-Gmail" width="800"/>
+<p><em>Agent autonomously composing a Gmail draft</em></p>
+
+</div>
 
 ## How It Works
 
