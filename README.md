@@ -70,11 +70,13 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 - [ ] Zeabur deployment for one-click sharing
 
 
-Built at **Build Smth AI-Native Hackathon @Cal** — May 2026
-## Links
-- [DevPost Submission]([your devpost link])
+## Built at 
+**Build Smth AI-Native Hackathon @Cal** — May 2026
 
 **Sponsors:** [OpenSwarm](https://openswarm.com) · [Retell](https://retellai.com) · [InsForge](https://insforge.com) · [Zeabur](https://zeabur.com) · [Entelligence AI](https://entelligence.ai) · [PixVerse](https://pixverse.ai) · [Klarity Health](https://klarity.health)
+
+## Links
+- [DevPost Submission]([https://devpost.com/software/swarmapply?_gl=1*lrkf9c*_gcl_au*OTcxOTU3NjMxLjE3NzgyNzY5ODg.*_ga*MTkwNzU3NTcxNS4xNzc4Mjc2OTg4*_ga_0YHJK3Y10M*czE3NzgzOTE2MDMkbzUkZzEkdDE3NzgzOTE2MTckajQ2JGwwJGgw])
 
 ## Author
 [Ethan Ngo](https://github.com/ethngo7)
