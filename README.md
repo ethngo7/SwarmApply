@@ -10,7 +10,9 @@ autonomously with a single prompt.
 
 ## Demo
 
-![SwarmApply Demo](screenshots/demo.png)
+![Job Search](screenshots/subagents-working.png)
+![Agents Running](screenshots/Custom-modes.png)
+![Cold Email Output](screenshots/agent-in-Gmail.png)
 
 ## How It Works
 
