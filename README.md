@@ -27,6 +27,8 @@ autonomously with a single prompt.
 
 One prompt triggers a coordinated swarm of 5 specialized AI agents:
 
+Example prompt: "find me the most compatible jobs within the SF Bay Area that require 0-2 years of experiences; open to new grads"
+
 ## Agents
 
 | Mode | Role |
@@ -43,30 +45,25 @@ See the [`/modes`](./modes) folder for all agent system prompts.
 
 ### Prerequisites
 - [OpenSwarm](https://openswarm.com) installed
-- Anthropic API key or Claude Pro account
-- Google Workspace connected in OpenSwarm Actions (for Gmail)
+- API keys or direct LLM account connections
+- Google Workspace MCP connected (for Gmail)
 
 ### Installation
-1. Clone this repo
-2. Open OpenSwarm
-3. Go to **Modes** → create 5 new Modes
-4. Copy-paste each prompt from the `/modes` folder
-5. Spawn one **Orchestrator** agent on your canvas
-6. Type your job search query and let it run
 
-## Tech Stack
-- [OpenSwarm](https://openswarm.com) — multi-agent orchestration
-- Claude Sonnet 4.6 — powers all agents
-- Google Workspace MCP — Gmail draft integration
+1. Download OpenSwarm
+2. Go to **Modes** → create 5 new Modes
+3. Copy-paste each prompt from the `/modes` folder, or create your own!!
+4. Create one **Orchestrator** agent 
+5. Type your job search query and let it run
 
-## Roadmap
+
+## Further Improvements
 - [ ] Fix Gmail draft saving via MCP
-- [ ] Add Follow Up agent
+- [ ] Add Email Follow Up agent
 - [ ] Add Interview Prep agent
-- [ ] Add Negotiate agent
 - [ ] Resume stored as reusable Skill
 - [ ] Auto-apply to Workday/Greenhouse
-- [ ] InsForge backend for application tracking
+- [ ] InsForge backend for application tracking (database)
 - [ ] Zeabur deployment for one-click sharing
 
 
