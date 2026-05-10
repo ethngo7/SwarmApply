@@ -10,9 +10,9 @@ autonomously with a single prompt.
 
 ## Demo
 
-![Job Search](screenshots/subagents-working.png)
-![Agents Running](screenshots/Custom-modes.png)
-![Cold Email Output](screenshots/agent-in-Gmail.png)
+![Job Search](https://raw.githubusercontent.com/ethngo7/swarmapply/main/screenshots/subagents-working.png)
+![Agents Running](https://raw.githubusercontent.com/ethngo7/swarmapply/main/screenshots/Custom-modes.png)
+![Cold Email Output](https://raw.githubusercontent.com/ethngo7/swarmapply/main/screenshots/agent-in-Gmail.png)
 
 ## How It Works
 
