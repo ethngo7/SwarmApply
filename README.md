@@ -37,6 +37,8 @@ One prompt triggers a coordinated swarm of 5 specialized AI agents:
 | Email Hunter | Finds the real recruiter or hiring manager's email |
 | Cold Email Drafter | Writes a personalized <100 word cold email |
 
+See the [`/modes`](./modes) folder for all agent system prompts.
+
 ## Setup
 
 ### Prerequisites
